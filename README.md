@@ -1,1 +1,10 @@
-<div class="image-container"> <div class="image-item"> <p><em>Diffusion Policy</em></p> <img src="https://github.com/chen-xu-tri/test/blob/main/vis_diffusion.gif" alt="diffusion" width="400"/> </div> <div class="image-item"> <p><em>Flow Policy</em></p> <img src="https://github.com/chen-xu-tri/test/blob/main/vis_flow.gif" alt="flow" width="400"/> </div> </div>
+<div class="image-container" style="display: flex; align-items: center;"> 
+  <div class="image-item" style="margin-right: 20px;"> 
+    <p><em>Diffusion Policy</em></p> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/pusht_state_diffusion.gif" alt="flow" width="300"/> 
+  </div> 
+  <div class="image-item"> 
+    <p><em>Flow Policy</em></p> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/pusht_state_flow.gif" alt="flow" width="300"/> 
+  </div> 
+</div>
