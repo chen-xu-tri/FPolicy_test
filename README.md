@@ -14,6 +14,8 @@
 **Inference advantage**
 - FlowPolicy + 1-step generation: 0.95~1 reward (max 1).
 - DiffusionPolicy + 1-step generation: 0 reward.
+
+Self-contained python codes are available: [FlowPolicy](https://github.com/chen-xu-tri/test/blob/main/flow_policy_vision_pusht_demo.py), [DiffusionPolicy](https://github.com/chen-xu-tri/test/blob/main/diffusion_policy_vision_pusht_demo.py)
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
     <p><em>Diffusion Policy</em></p> 
