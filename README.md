@@ -27,6 +27,21 @@ Self-contained python codes are available: [FlowPolicy](https://github.com/chen-
   </div> 
 </div>
 
+## Robomimic-state-policy
+<div class="image-container" style="display: flex; align-items: center;"> 
+  <div class="image-item" style="margin-right: 20px;"> 
+    <p><em>Flow Policy (lift) </em></p> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/lift_ph_state.gif" alt="flow" width="300"/> 
+  </div> 
+  <div class="image-item"> 
+    <p><em>Flow Policy (square) </em></p> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/square_ph_state.gif" alt="flow" width="300"/> 
+  </div> 
+  <div class="image-item"> 
+    <p><em>Flow Policy (transport) </em></p> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/transport_ph_state.gif" alt="flow" width="300"/>
+</div>
+
 
 ## Square-visual-ph-policy
 <div class="image-container" style="display: flex; align-items: center;"> 
@@ -44,7 +59,7 @@ Self-contained python codes are available: [FlowPolicy](https://github.com/chen-
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
     <p><em>Diffusion Policy</em></p> 
-    <img src="https://github.com/chen-xu-tri/test/blob/main/transport_ph_visual_diffusion.gif" alt="flow" width="300"/> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/transport_ph_visual_diffusion.gif" alt="flow" width="300"/> 
   </div> 
   <div class="image-item"> 
     <p><em>Flow Policy</em></p> 
