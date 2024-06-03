@@ -11,7 +11,9 @@
 </div>
 
 ## PushT-visual-policy
-Note, in this case, 1-step inference by FlowPolicy already gives 0.98 reward (max 1).
+**Inference advantage**
+- FlowPolicy + 1-step generation: 0.95~1 reward (max 1).
+- DiffusionPolicy + 1-step generation: 0 reward.
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
     <p><em>Diffusion Policy</em></p> 
