@@ -62,7 +62,7 @@ Despite variations, both were able to reach **0.94** success rate when NFE = 100
 
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
-    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_square.png" alt="flow" width="500"/> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_square_updated.png" alt="flow" width="500"/> 
   </div> 
 </div>
 
@@ -86,7 +86,7 @@ Despite variations, both were able to reach **0.94** success rate when NFE = 100
 
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
-    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_transport.png" alt="flow" width="500"/> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_transport_updated.png" alt="flow" width="500"/> 
   </div> 
 </div>
 
@@ -109,6 +109,6 @@ Despite variations, both were able to reach **0.92** success rate when NFE = 100
 
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
-    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_tool_hang.png" alt="flow" width="500"/> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_tool_hang_updated.png" alt="flow" width="500"/> 
   </div> 
 </div>
