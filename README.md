@@ -43,7 +43,8 @@ Self-contained python codes are available: [FlowPolicy](https://github.com/chen-
 </div>
 
 
-## Square-visual-ph-policy
+## Robomimic-Square-visual-ph-policy
+### Videos
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
     <p><em>Diffusion Policy</em></p> 
@@ -55,7 +56,17 @@ Self-contained python codes are available: [FlowPolicy](https://github.com/chen-
   </div> 
 </div>
 
-## Transport-visual-ph-policy
+### Success rate vs. Inference NFE
+<div class="image-container" style="display: flex; align-items: center;"> 
+  <div class="image-item" style="margin-right: 20px;"> 
+    <p><em>Diffusion Policy</em></p> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_square.gif" alt="flow" width="500"/> 
+  </div> 
+</div>
+
+
+## Robomimic-Transport-visual-ph-policy
+### Videos
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
     <p><em>Diffusion Policy</em></p> 
@@ -67,7 +78,17 @@ Self-contained python codes are available: [FlowPolicy](https://github.com/chen-
   </div> 
 </div>
 
-## Tool hang-visual-ph--policy
+### Success rate vs. Inference NFE
+
+<div class="image-container" style="display: flex; align-items: center;"> 
+  <div class="image-item" style="margin-right: 20px;"> 
+    <p><em>Diffusion Policy</em></p> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_transport.gif" alt="flow" width="500"/> 
+  </div> 
+</div>
+
+## Robomimic-Tool hang-visual-ph--policy
+### Videos
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
     <p><em>Diffusion Policy</em></p> 
@@ -76,5 +97,13 @@ Self-contained python codes are available: [FlowPolicy](https://github.com/chen-
   <div class="image-item"> 
     <p><em>Flow Policy</em></p> 
     <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/tool_hang_ph_visual_flow.gif" alt="flow" width="300"/> 
+  </div> 
+</div>
+
+### Success rate vs. Inference NFE
+<div class="image-container" style="display: flex; align-items: center;"> 
+  <div class="image-item" style="margin-right: 20px;"> 
+    <p><em>Diffusion Policy</em></p> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_tool_hang.gif" alt="flow" width="500"/> 
   </div> 
 </div>
