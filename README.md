@@ -57,6 +57,9 @@ Self-contained python codes are available: [FlowPolicy](https://github.com/chen-
 </div>
 
 ### Success rate vs. Inference NFE
+
+Despite variations, both were able to reach **0.94** success rate when NFE = 100 (last point), as reported based on policy rollout during training.
+
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
     <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_square.png" alt="flow" width="500"/> 
@@ -79,6 +82,8 @@ Self-contained python codes are available: [FlowPolicy](https://github.com/chen-
 
 ### Success rate vs. Inference NFE
 
+Despite variations, both were able to reach **0.94** success rate when NFE = 100 (last point), as reported based on policy rollout during training.
+
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
     <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_transport.png" alt="flow" width="500"/> 
@@ -99,6 +104,9 @@ Self-contained python codes are available: [FlowPolicy](https://github.com/chen-
 </div>
 
 ### Success rate vs. Inference NFE
+
+Despite variations, both were able to reach **0.92** success rate when NFE = 100 (last point), as reported based on policy rollout during training.
+
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
     <img src="https://github.com/chen-xu-tri/test/blob/main/simul_robomimic_results/rate_vs_steps_tool_hang.png" alt="flow" width="500"/> 
