@@ -1,3 +1,15 @@
+## Multi-modal on push-T
+<div class="image-container" style="display: flex; align-items: center;"> 
+  <div class="image-item" style="margin-right: 20px;"> 
+    <p><em>Multi-modality behavior</em></p> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_pusht_results/multi_modal.png" alt="flow" width="300"/> 
+  </div> 
+  <div class="image-item"> 
+    <p><em>Video</em></p> 
+    <img src="https://github.com/chen-xu-tri/test/blob/main/simul_pusht_results/multi_modal.gif" alt="flow" width="300"/> 
+  </div> 
+</div>
+
 ## PushT-state-policy
 <div class="image-container" style="display: flex; align-items: center;"> 
   <div class="image-item" style="margin-right: 20px;"> 
